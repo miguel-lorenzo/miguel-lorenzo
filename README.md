@@ -17,7 +17,7 @@
 
 <h2 align="left">Contact me</h2>
 
-[![Outlook Badge](https://img.shields.io/badge/-milorenzo%40outlook.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:milorenzo@outlook.com)](mailto:jacksonmagnabosco@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-milorenzo%40outlook.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:milorenzo@outlook.com)](mailto:milorenzo@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/-milorenzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milorenzo/)](https://www.linkedin.com/in/milorenzo/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/miguel-lorenzo)](https://github.com/miguel-lorenzo)
 
