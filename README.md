@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miguel-lorenzo&label=Profile%20views&color=0e75b6&style=flat" alt="miguel-lorenzo" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguel-lorenzo&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="miguel-lorenzo" /></a> </p>
+
 
 - 🔭 I’m currently working at [Alice Biometrics](https://www.alicebiometrics.com/)
 
@@ -13,7 +13,10 @@
 
 - 📫 How to reach me **milorenzo@outlook.com**
 
-<h2 align="left">Contact me</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguel-lorenzo&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="miguel-lorenzo" /></a> </p>
+
+<h2 align="left">📫 Contact me</h2>
+
 [![Outlook Badge](https://img.shields.io/badge/-milorenzo%40outlook.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:milorenzo@outlook.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-milorenzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milorenzo/)](https://www.linkedin.com/in/milorenzo/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/miguel-lorenzo)](https://github.com/miguel-lorenzo)
