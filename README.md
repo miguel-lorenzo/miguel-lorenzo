@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.alicebiometrics.com/en/blog/](https://www.alicebiometrics.com/en/blog/)
 
-- Take a look at my MSc thesis [here](http://castor.det.uvigo.es:8080/xmlui/handle/123456789/298?locale-attribute=en)!
+- 🎓 Take a look at my MSc thesis [here](http://castor.det.uvigo.es:8080/xmlui/handle/123456789/298?locale-attribute=en)!
 
 - 💬 Ask me about **Python, Tesseract and OpenCV**
 
