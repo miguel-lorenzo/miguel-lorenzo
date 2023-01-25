@@ -1,5 +1,5 @@
 <h1 align="center">Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Miguel</h1>
-<h3 align="center">A research software engineer from Vigo (Spain)</h3>
+<h3 align="center">A software engineer from Vigo (Spain)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miguel-lorenzo&label=Profile%20views&color=0e75b6&style=flat" alt="miguel-lorenzo" /> </p>
 
