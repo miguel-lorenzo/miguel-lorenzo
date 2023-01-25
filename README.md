@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **milorenzo@outlook.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguel-lorenzo&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="miguel-lorenzo" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=miguel-lorenzo)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h2 align="left">Contact me</h2>
 
